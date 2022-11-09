@@ -1,6 +1,7 @@
 # local-webserver
 Simple NodeJS based express WebServer to locally host static files
 
+Authors: [George Iyawe](https://github.com/cd-Roid) & [Alex Masny](https://github.com/alexmasny-kt)
 
 How to: 
 
