@@ -1,2 +1,8 @@
 node_modules/
 out/
+frontend
+in
+.env.local
+Dockerfile
+docker-compose.yml
+start.sh
